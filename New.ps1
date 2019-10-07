@@ -1,1 +1,1 @@
-THis is my new file okey
+Get-Process -Name 'explorer'
