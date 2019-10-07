@@ -1,4 +1,5 @@
 # TestRepoAdvPS
-Test repo for PS
+Coolest repo ever
 
-This is the README file
+#How to contribute
+Add more nice features and send pull request
